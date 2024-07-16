@@ -14,5 +14,5 @@ Utilizei o "ChatGPT" para realizar minha pesquisa sobre IAs Generativas, estrutu
 O artigo apresenta um conteúdo envolvente e insights valiosos sobre a importância de usar a IA no contexto da gestão de serviços.
 
 ## 💭 O Artigo
-O artigo pode ser acessado neste link artigos/A_Importância_Gestoo_Servicos_TI_com_uso_IA_pt.pdf
+O artigo pode ser acessado neste **[Link](https://github.com/saraiva-erick/dio-lab--natty-or-not/blob/65019039d56210c53dbd214b4e1cb64ce5eeb4b2/artigos/A_Import%C3%A2ncia_Gestoo_Servicos_TI_com_uso_IA_pt.pdf)**
 
